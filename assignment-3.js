@@ -40,4 +40,4 @@ function megaFriend(name){
 console.log(kilometerToMeter(3))
 console.log(budgetCalculator( 2 , 2, 2 ))
 console.log(hotelCost(23))
-console.log(megaFriend(["robin", "rafi","shahriar","fahim"]))
+console.log(megaFriend(["robin", "saiful","shahriar","fahim"]))
